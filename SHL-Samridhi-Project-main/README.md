@@ -1,4 +1,4 @@
-# SHL-Sarah-Project
+# SHL-Samridhi-Project
 Build a Grammar Scoring Engine for Voice Samples (hosted on Kaggle).
 
 This repository contains a Python-based Grammar Scoring Engine that processes voice samples to evaluate spoken English grammar. The engine performs speech-to-text conversion, detects grammar issues, and generates a grammar score based on the severity and frequency of errors.
